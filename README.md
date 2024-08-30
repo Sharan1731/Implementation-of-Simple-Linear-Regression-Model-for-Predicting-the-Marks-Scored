@@ -15,11 +15,15 @@ To write a program to predict the marks scored by a student using the simple lin
 5.Predict the regression for marks by using the representation of the graph.
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
 ## Program:
+```
 
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
+
 Developed by: SHARAN G
+
 RegisterNumber:  212223230203
+
 */
 
 import numpy as np
@@ -117,7 +121,7 @@ print("Root Mean Squared Error:", rmse)
 ![Screenshot 2024-08-29 194832](https://github.com/user-attachments/assets/f2a01ead-ee45-4b91-91dc-55660f6c16aa)
 
 
-
+```
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
