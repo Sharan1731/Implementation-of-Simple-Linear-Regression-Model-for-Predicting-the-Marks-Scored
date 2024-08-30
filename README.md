@@ -82,7 +82,7 @@ print("Mean Absolute Error:", mae)
 print("Mean Squared Error:", mse)
 print("Root Mean Squared Error:", rmse)
 
-
+```
 ## Output:
 ![Screenshot 2024-08-29 194702](https://github.com/user-attachments/assets/1b416b49-683a-41df-85cf-af0ad4fc6d66)
 
@@ -121,7 +121,6 @@ print("Root Mean Squared Error:", rmse)
 ![Screenshot 2024-08-29 194832](https://github.com/user-attachments/assets/f2a01ead-ee45-4b91-91dc-55660f6c16aa)
 
 
-```
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
